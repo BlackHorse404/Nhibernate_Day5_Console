@@ -1,0 +1,114 @@
+[
+  {
+    "MaSinhVien": "2001000000",
+    "TenSinhVien": "Nguyễn Văn B",
+    "GioiTinh": "Nữ",
+    "NgayThangNamSinh": "2002-10-11T00:00:00",
+    "Lop": "11DHTH10",
+    "Khoa": "2020-2024"
+  },
+  {
+    "MaSinhVien": "2001001111",
+    "TenSinhVien": "Nguyễn Văn D",
+    "GioiTinh": "Nữ",
+    "NgayThangNamSinh": "2002-10-11T00:00:00",
+    "Lop": "11DHTH10",
+    "Khoa": "2020-2024"
+  },
+  {
+    "MaSinhVien": "A104120443",
+    "TenSinhVien": "Nguyễn Lê Hùng",
+    "GioiTinh": "Nam",
+    "NgayThangNamSinh": "2002-04-22T00:00:00",
+    "Lop": "11DHTH01",
+    "Khoa": "2020-2024"
+  },
+  {
+    "MaSinhVien": "A104940111",
+    "TenSinhVien": "Nguyễn Văn Tuấn",
+    "GioiTinh": "Nam",
+    "NgayThangNamSinh": "2002-05-22T00:00:00",
+    "Lop": "11DHTH10",
+    "Khoa": "2020-2024"
+  },
+  {
+    "MaSinhVien": "A104940222",
+    "TenSinhVien": "Nguyễn Văn Thanh",
+    "GioiTinh": "Nữ",
+    "NgayThangNamSinh": "2002-03-21T00:00:00",
+    "Lop": "11DHTH10",
+    "Khoa": "2020-2024"
+  },
+  {
+    "MaSinhVien": "A104940333",
+    "TenSinhVien": "Nguyễn Thị Hồng",
+    "GioiTinh": "Nam",
+    "NgayThangNamSinh": "2002-04-22T00:00:00",
+    "Lop": "11DHTH10",
+    "Khoa": "2020-2024"
+  },
+  {
+    "MaSinhVien": "A104940378",
+    "TenSinhVien": "Nguyễn Hồng Thanh",
+    "GioiTinh": "Nữ",
+    "NgayThangNamSinh": "2002-06-30T00:00:00",
+    "Lop": "11DHTH01",
+    "Khoa": "2020-2024"
+  },
+  {
+    "MaSinhVien": "A143240478",
+    "TenSinhVien": "Nguyễn Thị Hoa",
+    "GioiTinh": "Nam",
+    "NgayThangNamSinh": "2002-11-05T00:00:00",
+    "Lop": "11DHTH02",
+    "Khoa": "2020-2024"
+  },
+  {
+    "MaSinhVien": "B104110428",
+    "TenSinhVien": "Nguyễn Thị Thanh Hoa",
+    "GioiTinh": "Nữ",
+    "NgayThangNamSinh": "2002-04-11T00:00:00",
+    "Lop": "11DHTH02",
+    "Khoa": "2020-2024"
+  },
+  {
+    "MaSinhVien": "B104211443",
+    "TenSinhVien": "Nguyễn Văn Thành Đạt",
+    "GioiTinh": "Nam",
+    "NgayThangNamSinh": "2002-11-20T00:00:00",
+    "Lop": "11DHTH01",
+    "Khoa": "2020-2024"
+  },
+  {
+    "MaSinhVien": "B104940444",
+    "TenSinhVien": "Nguyễn Hùng Hưng",
+    "GioiTinh": "Nam",
+    "NgayThangNamSinh": "2002-06-23T00:00:00",
+    "Lop": "11DHTH10",
+    "Khoa": "2020-2024"
+  },
+  {
+    "MaSinhVien": "D104940228",
+    "TenSinhVien": "Triệu Thị Mẫn",
+    "GioiTinh": "Nam",
+    "NgayThangNamSinh": "2002-02-12T00:00:00",
+    "Lop": "11DHTH01",
+    "Khoa": "2020-2024"
+  },
+  {
+    "MaSinhVien": "D104940478",
+    "TenSinhVien": "Nguyễn Thị Thanh",
+    "GioiTinh": "Nam",
+    "NgayThangNamSinh": "2002-01-01T00:00:00",
+    "Lop": "11DHTH01",
+    "Khoa": "2020-2024"
+  },
+  {
+    "MaSinhVien": "D104940543",
+    "TenSinhVien": "Nguyễn Thanh Long",
+    "GioiTinh": "Nữ",
+    "NgayThangNamSinh": "2002-03-22T00:00:00",
+    "Lop": "11DHTH01",
+    "Khoa": "2020-2024"
+  }
+]
